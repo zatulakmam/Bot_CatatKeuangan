@@ -1,0 +1,6 @@
+1. Buat bot di Telegram lewat @BotFather, lalu salin token-nya.
+2. setelah membuat bot,install "bot_keuangan.py".
+3. buka folder di mana anda menyimpan file "bot_keuangan.py", lalu jalankan folder tersebut ke powershell/terminal.
+4. setelah masuk ke powershell/terminal pada folder anda, jalankan "pip install "python-telegram-bot>=20"".
+5. lalu jalan "export BOT_TOKEN="token_kamu""(token di dapatkan ketika selesai membuat bot.
+6. selesai, bot siap untuk di jalankan
